@@ -64,12 +64,6 @@ header {
     border: 2px solid #414840;
     padding: 8px 20px;
 }
-.tabletMenuBtn{
-    display: none;
-}
-.tabletMenuBtn i{
-    cursor: pointer;
-}
 
 
 .section1{
@@ -188,25 +182,6 @@ header {
     width: 100%;
     height: 409px;
     
-}
-.LRightBodyTablet{
-    display: none;
-    width: 100%;
-    float: left;
-    padding-top: 50px;
-    overflow: hidden;
-}
-.LRightBodyTablet h1{
-    font-size: 45px;
-    font-weight: 500;
-    color: #ffffff;
-}
-.LRightBodyTablet p{
-    padding-top: 20px;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: 100;
-    color: #ffffff;
 }
 
 
